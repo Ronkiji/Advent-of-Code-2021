@@ -1,0 +1,40 @@
+{
+  "files": {
+    "inputs/day05.txt": [
+      {
+        "id": "fc28419e-e7eb-44b8-be6b-dd74c1f4225c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "inputs/day14.txt": [
+      {
+        "id": "3d0e841c-8c81-4def-93d5-96ac1fca6971",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "b8d3c6e9-f35b-463f-a109-825fcdbd6078",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "69fc92c1-e4e6-4d8a-8340-84a651905c02",
+        "line": 11,
+        "version": 1,
+        "index": 330
+      },
+      {
+        "id": "c65b3447-84d2-4de3-ade8-e1252f264ba6",
+        "line": 11,
+        "version": 1,
+        "index": 330
+      }
+    ]
+  }
+}
